@@ -12,4 +12,8 @@ import { Component } from '@angular/core'
     //     </p>`
 
 })
-export class TopoComponent {}
+export class TopoComponent {
+
+    public titulo: string = 'Aprendendo inglês'
+    
+}
